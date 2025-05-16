@@ -1,4 +1,4 @@
-<h1>🚌 Welcome to <strong>Shuttle Seat</strong> – Basic Shuttle Booking System</h1>
+<h1>🚌 Welcome to <strong>Shuttle Seat</strong> – Basic Seat Booking System</h1>
 <p>
   <strong>Shuttle Seat</strong> is a beginner-to-intermediate level Java desktop application built using <strong>JavaFX</strong> for the user interface and <strong>MySQL</strong> for backend data handling. It simulates a basic shuttle seat booking system with interactive seat selection and database integration.
 </p>
